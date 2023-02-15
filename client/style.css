@@ -1,0 +1,12 @@
+h1 {
+    color: #333;
+}
+
+body {
+    background-image: url('./img/background.jpg');
+    background-size: cover;
+}
+
+.name {
+    text-align: center;
+}
